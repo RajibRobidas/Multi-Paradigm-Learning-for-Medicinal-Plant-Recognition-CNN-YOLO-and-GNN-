@@ -1,0 +1,17 @@
+class,precision,recall,f1,support,accuracy
+Achyranthes aspera (Apang),0.967741935483871,1.0,0.9836065573770492,30,1.0
+Alternanthera brasiliana L. kuntze (Kalochitra),1.0,1.0,1.0,30,1.0
+Andrographis paniculata wall. ex nees (Kalomegh),1.0,1.0,1.0,30,1.0
+Artocarpus chama (Chapalish),1.0,1.0,1.0,30,1.0
+Asparagus racemosus willd (Shotomuli),1.0,1.0,1.0,30,1.0
+Ayapana triplinervis (Ayapan),1.0,1.0,1.0,30,1.0
+Boerhavia diffusa L. (Punarnava),1.0,1.0,1.0,30,1.0
+Clerodendrum indicum L. kuntze (Bamonhati),1.0,1.0,1.0,30,1.0
+Datura tramonium L. (Kalodhutura),1.0,1.0,1.0,30,1.0
+Eleutherine bulbosa (Betal),1.0,1.0,1.0,30,1.0
+Gloriosa superba (Agnishikha),1.0,1.0,1.0,30,1.0
+Gynura procumbens (Lour.) merr. (Gainura),1.0,1.0,1.0,30,1.0
+Hemidesmus indicus (Linn.) R. Br (Anantamul),1.0,1.0,1.0,30,1.0
+Justicia adhatoda L. (Basok),1.0,1.0,1.0,30,1.0
+Ocimum gatissimum L. (Ram-Tulsi),1.0,0.9666666666666667,0.9830508474576272,30,0.9666666666666667
+Rauwolfia serpentina (Sarpagandha),1.0,1.0,1.0,30,1.0

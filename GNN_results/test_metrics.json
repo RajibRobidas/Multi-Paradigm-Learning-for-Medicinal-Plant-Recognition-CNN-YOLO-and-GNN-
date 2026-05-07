@@ -1,0 +1,128 @@
+{
+  "per_class": {
+    "Achyranthes aspera (Apang)": {
+      "precision": 0.967741935483871,
+      "recall": 1.0,
+      "f1": 0.9836065573770492,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Alternanthera brasiliana L. kuntze (Kalochitra)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Andrographis paniculata wall. ex nees (Kalomegh)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Artocarpus chama (Chapalish)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Asparagus racemosus willd (Shotomuli)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Ayapana triplinervis (Ayapan)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Boerhavia diffusa L. (Punarnava)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Clerodendrum indicum L. kuntze (Bamonhati)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Datura tramonium L. (Kalodhutura)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Eleutherine bulbosa (Betal)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Gloriosa superba (Agnishikha)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Gynura procumbens (Lour.) merr. (Gainura)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Hemidesmus indicus (Linn.) R. Br (Anantamul)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Justicia adhatoda L. (Basok)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    },
+    "Ocimum gatissimum L. (Ram-Tulsi)": {
+      "precision": 1.0,
+      "recall": 0.9666666666666667,
+      "f1": 0.9830508474576272,
+      "support": 30,
+      "accuracy": 0.9666666666666667
+    },
+    "Rauwolfia serpentina (Sarpagandha)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 30,
+      "accuracy": 1.0
+    }
+  },
+  "macro": {
+    "precision": 0.997983870967742,
+    "recall": 0.9979166666666667,
+    "f1": 0.9979160878021673
+  },
+  "micro": {
+    "precision": 0.9979166666666667,
+    "recall": 0.9979166666666667,
+    "f1": 0.9979166666666667
+  },
+  "accuracy": 0.9979166666666667,
+  "test_loss": 0.008043177815504418
+}

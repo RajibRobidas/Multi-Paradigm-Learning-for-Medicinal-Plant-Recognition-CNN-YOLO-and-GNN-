@@ -1,0 +1,17 @@
+Class,Total_Samples,Correct_Predictions,Accuracy
+Achyranthes aspera (Apang),30,29,0.9666666666666667
+Alternanthera brasiliana L. kuntze (Kalochitra),30,29,0.9666666666666667
+Andrographis paniculata wall. ex nees (Kalomegh),30,29,0.9666666666666667
+Artocarpus chama (Chapalish),30,29,0.9666666666666667
+Asparagus racemosus willd (Shotomuli),30,30,1.0
+Ayapana triplinervis (Ayapan),30,30,1.0
+Boerhavia diffusa L. (Punarnava),30,30,1.0
+Clerodendrum indicum L. kuntze (Bamonhati),30,29,0.9666666666666667
+Datura tramonium L. (Kalodhutura),30,27,0.9
+Eleutherine bulbosa (Betal),30,30,1.0
+Gloriosa superba (Agnishikha),30,30,1.0
+Gynura procumbens (Lour.) merr. (Gainura),30,30,1.0
+Hemidesmus indicus (Linn.) R. Br (Anantamul),30,30,1.0
+Justicia adhatoda L. (Basok),30,27,0.9
+Ocimum gatissimum L. (Ram-Tulsi),30,30,1.0
+Rauwolfia serpentina (Sarpagandha),30,27,0.9
